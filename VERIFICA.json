@@ -1,0 +1,109 @@
+{
+  "web": {
+    "slug": "mientras-tanto",
+    "repository": "https://github.com/profondosud/rivela-mientras-tanto",
+    "pages_url": "https://profondosud.github.io/rivela-mientras-tanto/",
+    "pages_status": "built",
+    "home": {
+      "url": "https://profondosud.github.io/rivela-mientras-tanto/",
+      "status": 200,
+      "bytes": 8327
+    },
+    "assets": [
+      {
+        "url": "https://profondosud.github.io/rivela-mientras-tanto/styles.css",
+        "status": 200,
+        "bytes": 15713
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-mientras-tanto/images/mientras-hero.webp",
+        "status": 200,
+        "bytes": 68488
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-mientras-tanto/images/mientras-01.webp",
+        "status": 200,
+        "bytes": 106584
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-mientras-tanto/images/mientras-02.webp",
+        "status": 200,
+        "bytes": 115066
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-mientras-tanto/images/mientras-03.webp",
+        "status": 200,
+        "bytes": 109658
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-mientras-tanto/images/mientras-04.webp",
+        "status": 200,
+        "bytes": 224120
+      }
+    ],
+    "cliente": "Mientras Tanto"
+  },
+  "browser": {
+    "slug": "mientras-tanto",
+    "sizes": [
+      {
+        "brokenImages": [],
+        "client": 305,
+        "fontStatus": "loading",
+        "overflow": [],
+        "scroll": 305,
+        "viewport": 320
+      },
+      {
+        "brokenImages": [],
+        "client": 375,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 375,
+        "viewport": 390
+      },
+      {
+        "brokenImages": [],
+        "client": 753,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 753,
+        "viewport": 768
+      },
+      {
+        "brokenImages": [],
+        "client": 1265,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 1265,
+        "viewport": 1280
+      }
+    ]
+  },
+  "mobile": {
+    "slug": "mientras-tanto",
+    "focus": {
+      "focusVisible": true,
+      "outline": "solid",
+      "tag": "A"
+    },
+    "contact": {
+      "hash": "#visita",
+      "mobileAction": [
+        {
+          "height": 52,
+          "href": "tel:+34660649862",
+          "visible": true
+        }
+      ],
+      "overflow": false,
+      "phone": [
+        "tel:+34660649862",
+        "tel:+34660649862",
+        "tel:+34660649862",
+        "tel:+34660649862",
+        "tel:+34660649862"
+      ]
+    }
+  }
+}
